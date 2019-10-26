@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "tm.appdevelopment.HuhSoundboard",
+    "sha256_cert_fingerprints":
+    ["3A:9A:40:DE:B5:A9:A7:F7:8A:53:AB:74:D0:D8:A5:1B:34:69:F6:41:71:8F:74:2D:E4:F7:BF:CE:FE:3E:BB:82"]
+  }
+}]
